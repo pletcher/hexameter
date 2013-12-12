@@ -94,7 +94,7 @@ map_b2u = {
     'P':  '\u03c0', # pi
     'Q':  '\u03b8', # theta
     'R':  '\u03c1', # rho
-    'S':  '\u03c3', # medial sigma (see special case in translator)
+    'S':  '\u03c3', # medial sigma (see special case in converter)
     'T':  '\u03c4', # tau
     'U':  '\u03c5', # upsilon
     'V':  '\u03dd', # digamma
